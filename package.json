@@ -1,8 +1,11 @@
 {
-  "name": "react-native-amap3d",
+  "name": "react-native-gdamap3d",
   "version": "0.0.0",
   "description": "react-native 高德地图组件，支持 Android + iOS",
-  "author": "7c00 <i@7c00.cc>",
+  "author": {
+    "name": "caopeng123",
+    "email": "caopeng000@qq.com"
+  },
   "license": "MIT",
   "keywords": [
     "react-native",
@@ -21,7 +24,7 @@
   "homepage": "https://github.com/qiuxiang/react-native-amap3d",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiuxiang/react-native-amap3d"
+    "url": "https://github.com/caopeng000/react-native-amap3d"
   },
   "scripts": {
     "start": "react-native start",
